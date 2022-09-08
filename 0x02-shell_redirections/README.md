@@ -1,1 +1,1 @@
-0x02 shell input output redirection and filters
+Write a script that displays a confused smiley
